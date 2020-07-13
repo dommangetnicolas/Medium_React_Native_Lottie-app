@@ -1,0 +1,12 @@
+{
+  "name": "RNLottie",
+  "displayName": "RNLottie",
+  "expo": {
+    "name": "RNLottie",
+    "slug": "RNLottie",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
